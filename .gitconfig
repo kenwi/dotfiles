@@ -1,0 +1,13 @@
+[github]
+    user = kenwi
+
+[user]
+	name = Kenneth Wilhelmsen
+    email = kenneth@wilhelmsen.nu
+
+[core]
+    editor = vim
+
+[color]
+    ui = true
+    branch = true
